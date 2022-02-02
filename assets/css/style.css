@@ -1,0 +1,25 @@
+.logo {
+    width: 50px;
+    height: auto;
+}
+
+.head {
+    display: flex;
+}
+
+.div__head {
+    padding: 50px;
+    text-align: center;
+}
+
+.main {
+    padding-left: 170px;
+}
+
+.form-control {
+    display: block;
+}
+
+#formulario {
+    display: flex;
+}
